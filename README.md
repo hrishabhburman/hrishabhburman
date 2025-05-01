@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently a frontend developer <br>i am tech enthusiast<br>i have a keen interest in robotics and ai<br>studying bca ai and ds from poornima university , jaipur rajasthan <br>currently learning javascript<br>learning in tech
+I am currently a frontend developer <br>I am tech enthusiast<br>I have a keen interest in robotics and ai<br>Studying bca ai and ds from POORNIMA UNIVERSITY , jaipur rajasthan <br>Currently learning JAVASCRIPT<br>Learning in tech
 
 
 ## 🌐 Socials:
